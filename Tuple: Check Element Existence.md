@@ -9,6 +9,7 @@ Step1: Input x is equal to some letters given in question
 Step2: Print n in x
 
 Step3: Then print 8 in x 
+
 Step4: Execute the program.
 
 ## PROGRAM:
