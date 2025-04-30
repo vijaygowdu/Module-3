@@ -16,5 +16,5 @@ print(sum(L)))
 ## OUTPUT:
 ![image](https://github.com/user-attachments/assets/9e12fbdd-7d3e-482b-9d25-0d4aad14c63d)
 
-# #RESULT:
+## RESULT:
 Thus, the program has been successfully executed.
