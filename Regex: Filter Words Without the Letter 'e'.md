@@ -10,12 +10,14 @@ Step 3: append the words which satisfies the condition
 
 Step 4: print the appended list.
 ## PROGRAM:
+```
 import re l1=[]
 items=['goal', 'new', 'user', 'sit', 'eat','dinner'] 
 for i in items:
    if not re.search(r"e",i): 
       l1.append(i)
 print(l1)
+```
 ## OUTPUT:
 ![image](https://github.com/user-attachments/assets/72332b9e-de91-4aa6-a9c3-0a3892f44fa3)
 
